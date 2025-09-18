@@ -54,7 +54,7 @@ The notebook contains data preprocessing, model building, evaluation, and result
 ⚙️ How to Run
 	1.	Clone this repository:
 
-git clone https://github.com/your-username/Parkinson-Disease-Prediction.git
+git clone https://github.com/diwakar-codes/parkinsons-disease-prediction
 cd Parkinson-Disease-Prediction
 
 
